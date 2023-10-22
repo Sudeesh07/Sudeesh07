@@ -8,9 +8,14 @@ I am a dedicated and passionate enthusiast in the realms of Machine Learning, Ro
 🔬 My Journey:
 
 🎓 I am currently pursoing a Bachelor's Of Technology in Electronics and Computer Engineering at VIT Chennai and have always been captivated by the endless possibilities that technology can offer.
+
 🤖 My fascination with robotics began at a young age, sparked by the idea of creating intelligent machines capable of understanding and interacting with the world.
+
 🌟 I am driven by the belief that Machine Learning is a transformative force, and its applications in robotics can lead to breakthroughs in automation, healthcare, and beyond.
+
 📷 Image Processing is where I channel my creative and analytical skills to extract meaningful information from visual data. The power to analyze and interpret images is not only exciting but also pivotal in various industries.
+
+
 🛠️ My Toolkit:
 
 🔍 Proficient in machine learning techniques such as deep learning, reinforcement learning, and computer vision.
