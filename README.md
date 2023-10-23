@@ -22,6 +22,8 @@ I am a dedicated and passionate enthusiast in the realms of Machine Learning, Ro
 🤖 Learning designing, building, and programming robotic systems, including hardware and software integration.
 📷 Skilled in image processing algorithms for tasks like object recognition, image enhancement, and segmentation.
 💻 Proficient in programming languages like Python, C++, and MATLAB.
+
+
 🌐 My Quest:
 
 My mission is to leverage my skills and knowledge to contribute to the evolution of robotics, image processing, and the broader field of AI. I'm constantly working on exciting projects, learning from the AI community, and sharing insights along the way.
