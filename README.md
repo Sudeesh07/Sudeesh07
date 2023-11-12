@@ -30,7 +30,7 @@ My mission is to leverage my skills and knowledge to contribute to the evolution
 
 - 🔭 I’m currently working on **Skin Disease Detection**
 
-- 🌱 I’m currently learning **Image processing, ROS2**
+- 🌱 I’m currently learning **Image processing, NLP, ROS2**
 
 - 📫 How to reach me **sudeeshmuthum@gmail.com**
 
