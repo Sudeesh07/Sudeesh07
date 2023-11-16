@@ -49,6 +49,8 @@ My mission is to leverage my skills and knowledge to contribute to the evolution
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeesh07&show_icons=true&locale=en" alt="sudeesh07" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeesh07&theme=aura_dark)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeesh07&theme=darkhub" alt="sudeesh07" /></a> </p>
 
 [![An image of @sudeesh07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeesh07)](https://holopin.io/@sudeesh07)
