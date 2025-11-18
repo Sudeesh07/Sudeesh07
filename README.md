@@ -1,36 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudeesh</h1>
 
-
-🤖 About Me:
-
-I am a dedicated and passionate enthusiast in the realms of Machine Learning, Robotics, and Image Processing. With an insatiable curiosity for the intersection of artificial intelligence and robotics, I am on a relentless journey to explore and innovate in these cutting-edge fields.
-
-🔬 My Journey:
-
-🎓 I am currently pursoing a Bachelor's Of Technology in Electronics and Computer Engineering at VIT Chennai and have always been captivated by the endless possibilities that technology can offer.
-
-🤖 My fascination with robotics began at a young age, sparked by the idea of creating intelligent machines capable of understanding and interacting with the world.
-
-🌟 I am driven by the belief that Machine Learning is a transformative force, and its applications in robotics can lead to breakthroughs in automation, healthcare, and beyond.
-
-📷 Image Processing is where I channel my creative and analytical skills to extract meaningful information from visual data. The power to analyze and interpret images is not only exciting but also pivotal in various industries.
-
-
-🛠️ My Toolkit:
-
-🔍 Proficient in machine learning techniques such as deep learning, reinforcement learning, and computer vision.
-🤖 Learning designing, building, and programming robotic systems, including hardware and software integration.
-📷 Skilled in image processing algorithms for tasks like object recognition, image enhancement, and segmentation.
-💻 Proficient in programming languages like Python, C++, and MATLAB.
-
-
-🌐 My Quest:
-
-My mission is to leverage my skills and knowledge to contribute to the evolution of robotics, image processing, and the broader field of AI. I'm constantly working on exciting projects, learning from the AI community, and sharing insights along the way.
-
-- 🔭 I’m currently working on **Skin Disease Detection**
-
-- 🌱 I’m currently learning **Image processing, NLP, ROS2**
+hello i do ai and ml research. mostly focused on computer vision and robotics.  
+working on stereo vision super resolution, cryo electron tomography segmentation. 
 
 - 📫 How to reach me **sudeeshmuthum@gmail.com**
 
@@ -58,6 +29,8 @@ My mission is to leverage my skills and knowledge to contribute to the evolution
 <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 
 </p>
@@ -71,7 +44,4 @@ My mission is to leverage my skills and knowledge to contribute to the evolution
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeesh07&theme=darkhub" alt="sudeesh07" /></a> </p>
 
-[![An image of @sudeesh07's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeesh07)](https://holopin.io/@sudeesh07)
 
-
-![](https://komarev.com/ghpvc/?username=Sudeesh07&color=blueviolet&style=for-the-badge	)
