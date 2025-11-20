@@ -9,7 +9,7 @@ working on stereo vision super resolution, cryo electron tomography segmentation
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sudeesh-m-66b88a202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeesh-m-66b88a202" height="30" width="40" /></a>
-<a href="https://instagram.com/sudeesh_106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sudeesh_106" height="30" width="40" /></a>
+
 <a href="https://www.leetcode.com/sudeesh07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sudeesh07" height="30" width="40" /></a>
 </p>
 
