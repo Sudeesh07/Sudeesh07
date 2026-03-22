@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sudeesh</h1>
-
-hello i do ai and ml research. mostly focused on computer vision and robotics.  
+<h1 align="center">Hello 👋, I'm Sudeesh</h1>
+i do ai and ml research. mostly focused on computer vision and robotics.  
 working on stereo vision super resolution, cryo electron tomography segmentation. 
 
 - 📫 How to reach me **sudeeshmuthum@gmail.com**
