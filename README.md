@@ -36,8 +36,6 @@ working on stereo vision super resolution, cryo electron tomography segmentation
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudeesh07&show_icons=true&locale=en&layout=compact" alt="sudeesh07" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeesh07&theme=dracula" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudeesh07&theme=aura_dark)
 
 
